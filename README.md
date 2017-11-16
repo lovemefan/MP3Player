@@ -13,7 +13,6 @@ __`上传时间:2017/11/16`__
 * 6.背景图片毛玻璃美化
 
 **待实现的功能**
-* 音乐列表
 * 本地音乐读取播放
 * 网络音乐播放
  
@@ -21,13 +20,13 @@ __`上传时间:2017/11/16`__
 **工程说明:**
 > com.lovemefan.mp3player
 >>BlurImage.java-----------------------实现毛玻璃效果
-	 CircleImageView.java -------------圆形ImageView控件
-	 MainActivity.java---------------------主Activity
-	 Music.java-----------------------------音乐信息类
-	 MusicPlayService.java--------------音乐服务类
+	CircleImageView.java -------------圆形ImageView控件
+	MainActivity.java---------------------主Activity
+	Music.java-----------------------------音乐信息类
+	MusicPlayService.java--------------音乐服务类
 
 ## 界面效果
 ![mark](http://oskhhyaq3.bkt.clouddn.com/blog/171116/dlca6h3hAD.png?imageslim)
 ![mark](http://oskhhyaq3.bkt.clouddn.com/blog/171116/0GCA5kkBc2.png?imageslim)
 ![mark](http://oskhhyaq3.bkt.clouddn.com/blog/171116/hKd52055A0.png?imageslim)
-![mark](http://oskhhyaq3.bkt.clouddn.com/blog/171116/CF1jB5dI5l.png?imageslim)
+![mark](http://oskhhyaq3.bkt.clouddn.com/blog/171116/jbaI2K4LC3.png?imageslim)
